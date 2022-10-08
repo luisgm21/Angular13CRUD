@@ -1,9 +1,9 @@
 # Primer Uso
     1 Instalar la librería npm install -g json-server
-    2 Ejecutar el comando json-server --watch db.json
+## Uso General    
 
-
-
+1 Ejecutar el comando ng serve -o
+2 Ejecutar el comando json-server --watch db.json
 
 # Angular13CRUD
 
