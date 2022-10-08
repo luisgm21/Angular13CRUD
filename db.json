@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "name": "Manzana Verde",
+      "category": "Frutas",
+      "freshness": "Para estrenar",
+      "price": 50,
+      "comment": "Es una manzana relativamente nueva",
+      "date": "2022-10-06T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "name": "Pera",
+      "category": "Frutas",
+      "freshness": "Para estrenar",
+      "price": 150,
+      "comment": "es una fruta muy deliciosa",
+      "date": "2022-10-07T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "name": "Notebook Asus",
+      "category": "Frutas",
+      "freshness": "Restaurado",
+      "price": 1200,
+      "comment": "Mana",
+      "date": "2022-10-06T03:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
